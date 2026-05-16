@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 MCA final-year student and full-stack developer  <br>🌱 Learning React, Node.js, and cloud deployment  <br>🤝 Open to internships and project collaborations  <br>💬 Ask me about web development and JavaScript  <br>⚡ Fun fact: I love building things that actually work!
+👨‍💻 MCA student and full-stack developer  <br>🌱 Learning Python, React, Node.js, and cloud deployment  <br>🤝 Open to internships and project collaborations  <br>💬 Ask me about web development and JavaScript  <br>⚡ Fun fact: I love building things that actually work!
 
 
 ## 🌐 Socials:

@@ -1,5 +1,15 @@
 # 💫 About Me:
 👨‍💻 MCA student and full-stack developer  <br>🌱 Learning Python, React, Node.js, and cloud deployment  <br>🤝 Open to internships and project collaborations  <br>💬 Ask me about web development and JavaScript  <br>⚡ Fun fact: I love building things that actually work!
+# 💫 About Me:
+
+👨‍🎓 MCA Graduate passionate about Data Analytics and Full-Stack Development<br>
+📊 Skilled in Python, SQL, Power BI, Excel, Pandas, and NumPy<br>
+💻 Building web applications using React.js, Node.js, Express.js, and MongoDB<br>
+📈 Experienced in creating interactive dashboards, data visualizations, and business insights<br>
+🌱 Currently exploring Machine Learning, Cloud Technologies, and Advanced Data Analytics<br>
+🤝 Open to Data Analyst, Business Analyst, Python Developer, and Full-Stack Developer opportunities<br>
+💬 Ask me about Python, SQL, Power BI, Data Analysis, React.js, and Web Development<br>
+⚡ Fun Fact: I enjoy turning raw data into meaningful insights and building real-world projects
 
 
 ## 🌐 Socials:

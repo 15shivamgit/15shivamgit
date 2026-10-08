@@ -169,6 +169,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, us
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=15shivamgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" />
 
 </div>
 
